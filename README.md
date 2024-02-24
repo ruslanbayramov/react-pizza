@@ -1,3 +1,3 @@
 # The React Pizza
 
-Main project
+Main project.
